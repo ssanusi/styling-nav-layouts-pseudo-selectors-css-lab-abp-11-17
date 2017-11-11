@@ -72,5 +72,29 @@ nav a:hover{
 }
 div.secondDiv {
   padding: 0 20px 0 20px;
+
+}
+
+div.secondDiv h4 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+div.secondDiv p {
+  margin-top: 30px;
+}
+.btn {
+  border-radius: 5px;
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+  text-decoration: none;
+  padding: 18px;
+  font-size: 20px;
   
+}
+
+.btn a:hover{
+  background-color: #0069d9;
+  border-color: #0069d9;
 }

@@ -83,7 +83,7 @@ div.questions h4 {
 div.questions p {
   margin-top: 30px;
 }
-.btn a {
+.btn{
   border-radius: 5px;
   color: #fff;
   background-color: #007bff;
@@ -94,7 +94,7 @@ div.questions p {
 
 }
 
-.btn a:hover{
+.btn:hover{
   background-color: #0069d9;
   border-color: #0069d9;
 }

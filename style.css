@@ -67,3 +67,10 @@ nav a:hover{
   text-decoration: underline;
   color: #0056b3;
 }
+#topNav a:hover{
+  text-decoration: underline;
+}
+div.secondDiv {
+  padding: 0 20px 0 20px;
+  
+}
